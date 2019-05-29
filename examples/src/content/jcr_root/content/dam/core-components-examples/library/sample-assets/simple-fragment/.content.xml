@@ -8,7 +8,7 @@
         cq:name="simple-fragment"
         cq:parentPath="/content/dam/core-components-examples/library/sample-assets"
         dam:assetState="processed"
-        jcr:lastModified="{Date}2019-01-22T17:58:25.686+01:00"
+        jcr:lastModified="{Date}2019-05-28T13:27:19.586+03:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent"
         jcr:title="Simple Fragment"
@@ -20,7 +20,13 @@
             <sling:members jcr:primaryType="nt:unstructured"/>
         </associated>
         <metadata
+            dam:extracted="{Date}2019-05-28T13:27:19.506+03:00"
+            dam:sha1="a707bbbd119ddee44b14a7dbc17c1004223951de"
+            dam:size="{Long}319"
             dc:format="text/html"
+            dc:modified="{Date}2019-05-28T13:27:18.117+03:00"
+            jcr:lastModified="{Date}2019-05-28T13:27:18.117+03:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>
         <model

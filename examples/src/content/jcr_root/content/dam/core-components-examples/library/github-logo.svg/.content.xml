@@ -5,15 +5,18 @@
     jcr:uuid="50aa0280-d844-45af-9aff-906100d4a2f0">
     <jcr:content
         dam:assetState="processed"
-        jcr:lastModified="{Date}2019-02-14T17:56:00.574+01:00"
+        jcr:lastModified="{Date}2019-05-28T13:27:19.746+03:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
-            dam:extracted="{Date}2019-02-14T17:56:00.318+01:00"
+            dam:extracted="{Date}2019-05-28T13:27:17.660+03:00"
             dam:sha1="2b5873e2480fbbf46e712ee23e043546603d8238"
             dam:size="{Long}753"
             dc:format="image/svg+xml"
+            dc:modified="{Date}2019-05-28T13:27:19.746+03:00"
             dc:title="GitHub"
+            jcr:lastModified="{Date}2019-05-28T13:27:19.746+03:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>
         <related jcr:primaryType="nt:unstructured"/>
